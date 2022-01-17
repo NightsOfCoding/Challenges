@@ -122,8 +122,6 @@ const resolvers = {
         }
 
         if (usr && u_acc.length > 0) {
-          console.log(usr)
-          console.log(u_acc)
           return {
             success: true,
             message: `Account Details Added`,
