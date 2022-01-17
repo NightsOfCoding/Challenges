@@ -1,0 +1,19 @@
+{
+  "name": "graphql-node-post",
+  "version": "1.0.0",
+  "description": "Node and GraphQL Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yashwanth A N",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+    "apollo-datasource-rest": "^3.5.0",
+    "apollo-server": "^3.6.1",
+    "graphql": "^16.2.0",
+    "ifsc": "^2.0.5",
+    "pg": "^8.7.1"
+  }
+}
